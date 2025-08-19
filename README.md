@@ -39,7 +39,3 @@ A fun and interactive web application that converts your images into beautiful A
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-*This README was generated with assistance from Gemini.*
